@@ -17,7 +17,7 @@ v1.3 - Juan Jimenez - 4/21/15<br>
                Modified to remove execution of deletion of temp files<br>
                Modified to handle UNIT.MAP as cause of serialization<br>
 v1.4 - Juan Jimenez - 4/24/15<br>
-               Incorporates changes made by Zach at Raytheon<br>
+               Incorporates changes made by customer<br>
                Modified final step to let build.exe do both link and dblink.<br><br>
 Usage<br><br>
 Copyright (c) 2015 by Electric Cloud, Inc. All rights reserved.<br>
